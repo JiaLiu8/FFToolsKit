@@ -10,10 +10,8 @@
 #endif
 #endif
 
-#import "DBManager.h"
-#import "FFHelper.h"
-#import "HUDTools.h"
+#import "MBProgressHUD.h"
 
-FOUNDATION_EXPORT double FFToolsKitVersionNumber;
-FOUNDATION_EXPORT const unsigned char FFToolsKitVersionString[];
+FOUNDATION_EXPORT double MBProgressHUDVersionNumber;
+FOUNDATION_EXPORT const unsigned char MBProgressHUDVersionString[];
 
